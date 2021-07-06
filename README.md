@@ -1,6 +1,6 @@
 # Hello 👋
 
-Fullstack JavaScript Developer 
+My name is Max Anderberg and I am a Fullstack JavaScript Developer at `<salt/>`. 
 
 ---
 
