@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/salt_header.png"/>
+  <img width="100%" src="/images/salt_header.png"/>
 </p>
 <hr>
 
