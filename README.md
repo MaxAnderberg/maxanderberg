@@ -1,5 +1,5 @@
 <img width="100%" src="/images/salt_header.png"/>
-<hr>
+<hr style="height:2px; border-width:0; background-color:gray">
 
 # Hello 👋
 
