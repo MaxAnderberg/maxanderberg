@@ -1,4 +1,6 @@
-<img src="/images/salt_header.png"/>
+<p align="center">
+  <img src="/images/salt_header.png"/>
+</p>
 <hr>
 
 # Hello 👋
