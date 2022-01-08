@@ -1,7 +1,9 @@
+# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Max 👨‍💻.
+Get in touch with me at LinkedIn or if you want to learn more about me checkout my portfolio.
 
-Welcome to my Github profile. I'm a conversational AI developer turned fullstack developer. If you want to learn more about me, check out some of links down below:
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxanderberg/) [![General badge](https://img.shields.io/badge/portfolio-ffb86c?style=for-the-badge&logo=gmail&logoColor=white)](https://maxanderberg.se/)
 
 ## ✍️ Blog
 
@@ -11,8 +13,3 @@ At the moment I'm creating a blog written in GatsbyJS with the headles CMS Conte
 [![General badge](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)]() 
 
 ## 🔧 Technologies & Tools
-
-## 👨‍💻 Me
-
-If you want to learn more about me check out these links [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxanderberg/) [![General badge](https://img.shields.io/badge/portfolio-ffb86c?style=for-the-badge&logo=gmail&logoColor=white)](https://maxanderberg.se/)
-
