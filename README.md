@@ -18,15 +18,13 @@ Get in touch with me at LinkedIn or if you want to learn more about me checkout 
 
 ## ✍️ Blog
 
-Writing is something that I enjoy, and I think it's a good to spend time once in a while writing, it helps you with cementing the knowledge but at the same time you can help others. 
-
-At the moment I'm creating a blog written in GatsbyJS with the headles CMS Contentful. I plan on featuring the repo once I got the MvP up and running. 
+Writing is something that I enjoy. I'm currently creating blog using GatsbyJS Contentful.
 <!-- [![General badge](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)]()  -->
 
 ## 🔧 Technologies & Tools
 
 Tech
-* Brew 
+* Homebrew
 * Doker
 * GCP
 * Microservices
