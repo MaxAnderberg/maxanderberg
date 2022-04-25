@@ -10,10 +10,11 @@ Get in touch with me at LinkedIn or if you want to learn more about me checkout 
 
 ## ✍️ Blog
 
-Writing is something that I enjoy. I'm currently creating blog using GatsbyJS Contentful.
-<!-- [![General badge](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)]()  -->
+Writing is something that I enjoy. I'm currently creating blog using GatsbyJS, and Contentful as my headless CMS. It's still WiP but check out the progress [here](https://github.com/MaxAnderberg/my-blog).
 
-## 🔧 Technologies & Tools
+[//]: # ([![General badge]&#40;https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white&#41;]&#40;&#41; )
+
+## 🔧 Tech stack
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()[![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)]()
 
@@ -29,5 +30,4 @@ Writing is something that I enjoy. I'm currently creating blog using GatsbyJS Co
 [![GraphQL](https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)]()[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)]()
 
 
-## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxanderberg&show_icons=true&theme=dracula)
