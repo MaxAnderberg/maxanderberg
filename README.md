@@ -1,12 +1,9 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Max 👨‍💻 a fullstack developer. 
-Get in touch with me at LinkedIn or if you want to learn more about me checkout my portfolio.
+I'm Max 👨‍💻 a fullstack developer.
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxanderberg/) [![General badge](https://img.shields.io/badge/portfolio-ffb86c?style=for-the-badge&logo=gmail&logoColor=white)](https://maxanderberg.se/)
-
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxanderberg/) [![General badge](https://img.shields.io/badge/portfolio-9580FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItYnJpZWZjYXNlIj48cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIHJ4PSIyIiByeT0iMiI%2BPC9yZWN0PjxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D)](https://maxanderberg.se/)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]() -->
-
 
 ## ✍️ Blog
 
