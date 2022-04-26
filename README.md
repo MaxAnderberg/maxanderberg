@@ -2,7 +2,7 @@
 
 I'm Max 👨‍💻 a fullstack developer.
 
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxanderberg/) [![General badge](https://img.shields.io/badge/portfolio-9580FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJmZWF0aGVyIGZlYXRoZXItYnJpZWZjYXNlIj48cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIHJ4PSIyIiByeT0iMiI%2BPC9yZWN0PjxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D)](https://maxanderberg.se/)
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxanderberg/) [![General badge](https://img.shields.io/badge/portfolio-9580FF?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAAAnUlEQVRIie2VSw7DIAwFrSySO%2FVzvZY054QeY7qIqyKHRFXMIop4K2SbN5YRIHJqAQMwAYmlEjACvQcwFoytggfw7fxSyN00Fz0AAPbmRUQ6LRyAl521NbJayS%2FPRs1rK%2BSA4qxtp%2F%2BMCLhqOG4W7gXYeLe2uZYaoAEa4Ad4i8zX3GsI3HWZ8mCo%2FNABPHJAz%2FzExgrGEXji%2BUoPpQ9Rxgb1ebC0BwAAAABJRU5ErkJggg%3D%3D)](https://maxanderberg.se/)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]() -->
 
 ## ✍️ Blog
