@@ -1,1 +1,1 @@
-- Currently exploring Elixir, Phoenix, and Ruby with Ruby on rails.
+- Currently exploring Rails, and Laravel
