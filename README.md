@@ -1,1 +1,1 @@
-- Currently exploring Rails, and Laravel
+- Currently exploring Laravel
