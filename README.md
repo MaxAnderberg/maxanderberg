@@ -1,2 +1,2 @@
 👋
-- Currently exploring Laravel
+- Currently exploring Laravel, and Vue
